@@ -70,13 +70,13 @@ export default {
             icono: 'far fa-file-alt',
             numero: '2.1',
             titulo: 'Balanceo de carga interno',
-            hash: 't_2_1',
+            hash: 't2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
             titulo: 'Balanceo de carga externo',
-            hash: 't_2_2',
+            hash: 't2_2',
           },
         ],
       },
@@ -151,17 +151,17 @@ export default {
         centro: 'Centro para la Industria de la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
-      {
-        nombre: 'Vilma Lucia Perilla M.',
-        cargo: 'Revisora y evaluadora metodológica',
-        centro: 'Centro de Gestión Industrial',
-      },
-      {
-        nombre: 'Sandra Patricia Hoyos Sepúlveda',
-        cargo: 'Correción de estilo',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
+      //{
+      //  nombre: 'Vilma Lucia Perilla M.',
+      //  cargo: 'Revisora y evaluadora metodológica',
+      //  centro: 'Centro de Gestión Industrial',
+      //},
+      //{
+      //  nombre: 'Sandra Patricia Hoyos Sepúlveda',
+      //  cargo: 'Correción de estilo',
+      //  centro: 'Centro para la Industria de la Comunicación Gráfica',
+      //  regional: 'Regional Distrito Capital',
+      //},
     ],
     desarrolloProducto: [
       {

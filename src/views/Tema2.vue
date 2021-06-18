@@ -177,7 +177,7 @@
       .col-md-8.col-lg-4
         h4.ConTitle2 Balanceo de carga externo
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-md-10    
         figure
           img(src='@/assets/curso/img27.svg', alt='Balanceo de carga externo')

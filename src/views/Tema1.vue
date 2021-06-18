@@ -37,6 +37,11 @@
     #t1_2.titulo-segundo
       h2 1.2 Escalabilidad
 
+    p.mb-4 
+      | Capacidad de un sistema de software para 
+      strong permanecer en funcionamiento 
+      | en los escenarios en los que hay un incremento de usuarios, transacciones y/o datos.
+
     .row.mb-4.justify-content-center
       .col-md-8.col-lg-4
         h4.ConTitle Objetivo
@@ -73,9 +78,8 @@
       h2 1.3 Alta disponibilidad
     
     p.mb-5
-      | Capacidad de un sistema de software para 
-      strong permanecer en funcionamiento 
-      | en los escenarios en los que hay un incremento de usuarios, transacciones y/o datos.
+      | Capacidad de un sistema de software para estar completamente operativo 
+      strong cuando sea necesario.
     
     .row.mb-5.justify-content-center
       .col-lg-5
