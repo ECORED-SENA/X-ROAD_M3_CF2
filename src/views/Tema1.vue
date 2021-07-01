@@ -29,7 +29,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | Las solicitadas realizadas a un sistema (en términos de complejidad, número de transacciones, número de usuarios, entre otros) también han crecido de formas que hubieran sido inimaginables en años anteriores.
+            | Las solicitudes realizadas a un sistema (en términos de complejidad, número de transacciones, número de usuarios, entre otros) también han crecido de formas que hubieran sido inimaginables en años anteriores.
       .col-lg-4
         figure
           img(src='@/assets/curso/img12.svg', alt='Escalabilidad y alta disponibilidad')

@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Balanceo de carga con X-Road
+      h1 Balanceo de cargas con X-Road
     
     figure.mb-5
       img(src='@/assets/curso/img21.png', alt='Balanceo de carga con X-Road')

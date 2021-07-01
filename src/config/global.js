@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Atributos de calidad de escalabilidad y alta disponibilidad',
     descripcionCurso:
-      'La ejecución de X-Road requiere de conocimiento de aplicación en tácticas arquitectónicas de escalabilidad y alta disponibilidad en un escenario de interoperabilidad. Este módulo será escenario para el reconocimiento especifico de los atributos de calidad de escalabilidad tales como rendimiento, tiempos de respuesta, escalamiento horizontal, escalamiento vertical y el balanceo de carga junto con la alta disponibilidad, eliminación de Spofs, replicación en datos y aplicación, «Failover» y ANS.',
+      'La ejecución de X-Road requiere de conocimiento de aplicación en tácticas arquitectónicas de escalabilidad y alta disponibilidad en un escenario de interoperabilidad. Este módulo será escenario para el reconocimiento específico de los atributos de calidad de escalabilidad tales como rendimiento, tiempos de respuesta, escalamiento horizontal, escalamiento vertical y el balanceo de carga junto con la alta disponibilidad, eliminación de Spofs, replicación en datos y aplicación, «Failover» y ANS.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
@@ -100,11 +100,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      //{
+      //  nombreRuta: 'complementario',
+      //  icono: 'far fa-folder-open',
+      //  titulo: 'Material complementario',
+      //},
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
