@@ -151,17 +151,6 @@ export default {
         centro: 'Centro para la Industria de la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
-      //{
-      //  nombre: 'Vilma Lucia Perilla M.',
-      //  cargo: 'Revisora y evaluadora metodológica',
-      //  centro: 'Centro de Gestión Industrial',
-      //},
-      //{
-      //  nombre: 'Sandra Patricia Hoyos Sepúlveda',
-      //  cargo: 'Correción de estilo',
-      //  centro: 'Centro para la Industria de la Comunicación Gráfica',
-      //  regional: 'Regional Distrito Capital',
-      //},
     ],
     desarrolloProducto: [
       {
